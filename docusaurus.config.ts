@@ -12,7 +12,7 @@ const config: Config = {
   trailingSlash: true,
 
   // Set the production url of your site here
-  url: "https://test.docs.ecoearn.io",
+  url: "https://docs.ecoearn.io/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -59,23 +59,18 @@ const config: Config = {
     navbar: {
       logo: {
         alt: "aelf",
-        src: "img/Logo.aelf.svg",
-        srcDark: "img/Logo.aelf.white.svg",
+        src: "img/ecoearn-normal.svg",
+        srcDark: "img/ecoearn-white.svg",
       },
       items: [
         ...navbarLinks.links,
         {
-          href: "https://test.docs.ecoearn.io",
+          href: "https://github.com/EcoEarn/ecoearn-interface",
           position: "right",
           className: "header-github-link",
           "aria-label": "GitHub repository",
         },
       ],
-    },
-    footer: {
-      style: "light",
-      links: footerLinks.links,
-      copyright: `Copyright © ${new Date().getFullYear()} aelf`,
     },
     prism: {
       theme: prismThemes.github,

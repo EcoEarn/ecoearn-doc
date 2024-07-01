@@ -15,3 +15,16 @@ description: Staking Rules
 ## 3.2 **Mining Pool Rewards**
 
 ### List of Phase 1 mining pools and their rewards.
+
+| Points Staking | Earning Points                     | Reward |
+| -------------- | ---------------------------------- | ------ |
+| XPSGR-1        | New user joining Schrödinger       | SGR    |
+| XPSGR-5        | Adopting cats                      | SGR    |
+| XPSGR-10       | Provide LP for SGR/USDT on Uniswap | SGR    |
+| XPSGR-11       | Provide LP for SGR/ELF on Awaken   | SGR    |
+| Simple Staking | Token | Reward |
+| -------------- | ----- | ------ |
+| SGR            | SGR   | SGR    |
+| Farm（LP ）   | Token      | Reward |
+| ------------- | ---------- | ------ |
+| SGR-ELF LP 3% | SGR-ELF LP | SGR    |
