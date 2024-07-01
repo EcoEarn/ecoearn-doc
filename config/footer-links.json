@@ -1,0 +1,38 @@
+{
+	"links": [
+		{
+			"title": "Platform",
+			"items": [
+				{
+					"label": "Technology",
+					"href": "https://aelf.com/platform"
+				},
+				{
+					"label": "Audit Report",
+					"href": "https://github.com/AElfProject/aelf-audit-reports"
+				},
+				{
+					"label": "Privacy",
+					"href": "/legal/privacy-policy/"
+				},
+				{
+					"label": "Terms of Use",
+					"href": "/legal/terms-of-use/"
+				},
+				{
+					"label": "Cookie Policy",
+					"href": "/legal/cookie-policy/"
+				}
+			]
+		},
+		{
+			"title": "Connect",
+			"items": [
+				{
+					"label": "Contact Us",
+					"href": "https://form.aelf.com/contact"
+				}
+			]
+		}
+	]
+}
