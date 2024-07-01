@@ -84,7 +84,7 @@ jobs:
               inputs: {
                 env: '${{ github.ref == 'refs/heads/main' && 'production' || 'development' }}',
                 appName: 'docs',
-                appProject: 'aelf-docs',
+                appProject: 'ecoearn-docs',
                 commit_sha: 'sha-${{ steps.vars.outputs.short_sha }}',
               }
             })
