@@ -22,9 +22,11 @@ description: Staking Rules
 | XPSGR-5        | Adopting cats                      | SGR    |
 | XPSGR-10       | Provide LP for SGR/USDT on Uniswap | SGR    |
 | XPSGR-11       | Provide LP for SGR/ELF on Awaken   | SGR    |
+
 | Simple Staking | Token | Reward |
 | -------------- | ----- | ------ |
 | SGR            | SGR   | SGR    |
+
 | Farm（LP ）   | Token      | Reward |
 | ------------- | ---------- | ------ |
 | SGR-ELF LP 3% | SGR-ELF LP | SGR    |
