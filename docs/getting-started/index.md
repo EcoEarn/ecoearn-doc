@@ -6,11 +6,11 @@ description: Getting Started
 
 # Getting Started
 
-## 2.1 About aelf
+## 2.1 **About aelf**
 
 aelf network operates on a MainChain-SideChain structure, with the MainChain mainly for transfers with exchanges, and the SideChain for improved scalability.
 
-## 2.2 Portkey Wallet Download Guide
+## 2.2 **Portkey Wallet Download Guide**
 
 ### About Portkey
 
@@ -20,28 +20,28 @@ Portkey Wallet is a smart contract wallet without mnemonic phrases. You can alwa
 
 -   Visit the official website of the wallet, [https://portkey.finance/](https://portkey.finance/) and download Portkey Wallet App or Extension.
 
-![](/img/1.png)
+![](/img/2.2.1.png)
 
 ### Register Portkey Account
 
 -   Sign up for a Portkey Wallet account using Google ID, Apple ID, email, or Telegram account. Set a PIN code during registration.
 
-![](/img/2.png)
+![](/img/2.2.2.png)
 
 -   Upon completion, you'll instantly have a MainChain address on aelf network, and within 3-4 minutes, you'll also see your Sidechain address at the second line (ends with tDVV). Click on your SideChain address and then on "Receive", you'll see your own SideChain Address
 
-![](/img/3.png)
+![](/img/2.2.3.png)
 
 ## 2.3 **EcoEarn Connects with PortKey Wallet**
 
 -   Click the “Log in” button in the navigation bar to connect your wallet.
 
-![](/img/4.png)
+![](/img/2.3.1.png)
 
 -   You can log in to Portkey Wallet using a Google ID, Apple ID, email, or Telegram account.
 
-![](/img/5.png)
+![](/img/2.3.2.png)
 
 -   After confirming the signature, you will be successfully logged in.
 
-![](/img/6.png)
+![](/img/2.3.3.png)
