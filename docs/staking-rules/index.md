@@ -20,8 +20,10 @@ description: Staking Rules
 | -------------- | ---------------------------------- | ------ |
 | XPSGR-1        | New user joining Schrödinger       | SGR    |
 | XPSGR-5        | Adopting cats                      | SGR    |
+| XPSGR-7        | Trading cats                       | SGR    |
 | XPSGR-10       | Provide LP for SGR/USDT on Uniswap | SGR    |
 | XPSGR-11       | Provide LP for SGR/ELF on Awaken   | SGR    |
+| XPSGR-12       | Holding your cat NFTs              | SGR    |
 
 | Simple Staking | Token | Reward |
 | -------------- | ----- | ------ |
