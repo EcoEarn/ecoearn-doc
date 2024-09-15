@@ -1,11 +1,11 @@
 ---
-sidebar_position: 7
+sidebar_position: 5
 title: Rewards
 description: Rewards
 ---
 
 
-### 7.1 **Stake early**
+### 5.1 **Stake Rewards**
 
 -   Go to the “Rewards” page and click on “Stake early” in the pool rewards or in the “Details” popup to stake rewards early into the single-coin mining pool. Early stakeable rewards include both frozen and withdrawable amounts.
 
@@ -27,7 +27,7 @@ description: Rewards
 
 ![](/img/4.4.1.6.png)
 
-### 7.2 **Withdraw**
+### 5.2 **Withdraw**
 
 -   Go to the “Rewards” page and click the “Withdraw” button. This allows you to withdraw rewards that have reached their release period.
 
