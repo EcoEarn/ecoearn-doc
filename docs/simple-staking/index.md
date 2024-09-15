@@ -1,10 +1,10 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 title: Simple Staking
 description: Simple Staking
 ---
 
-### 5.1 **Staking**
+### 4.1 **Staking**
 
 -   Choose the single-coin mining pool you want to stake in, then click “Stake” to proceed.
 
@@ -18,7 +18,7 @@ description: Simple Staking
 
 ![](/img/4.2.1.3.png)
 
-### 5.2 **Add Staking**
+### 4.2 **Add Staking**
 
 -   Select the mining pool where you want to add additional staking, then click the “Add” button.
 
@@ -32,7 +32,7 @@ description: Simple Staking
 
 ![](/img/4.2.2.3.png)
 
-### 5.3 **Extend Lock-up Period**
+### 4.3 **Extend Lock-up Period**
 
 -   Select the mining pool for which you wish to extend the lock-up period, then click the “Extend” button. A longer extension period results in a higher APR.
 
@@ -46,7 +46,7 @@ description: Simple Staking
 
 ![](/img/4.2.3.3.png)
 
-### 5.4 **Renew**
+### 4.4 **Renew**
 
 -   After the lock-up period expires, there will be a 7-day unlocking period (grace period). During this period, you can renew the mining pool by selecting it and clicking the “Renew” button. If no action is taken during the unlocking period, the platform will automatically re-stake based on the total lock-up time from the most recent staking operation (remaining lock-up time + extension time).
 
@@ -60,7 +60,7 @@ description: Simple Staking
 
 ![](/img/4.2.4.3.png)
 
-### 5.5 **Unlocking**
+### 4.5 **Unstake**
 
 -   After the lock-up period ends, you can unlock the fixed-term mining pool during the 7-day unlocking period (grace period). Select the fixed-term mining pool you wish to unlock, then click the “Unlock” button.
 
@@ -70,7 +70,7 @@ description: Simple Staking
 
 ![](/img/4.2.5.2.png)
 
-### 5.6 **Claiming Rewards**
+### 4.6 **Claiming Rewards**
 
 -   Once the unlocking period (grace period) is reached, click the “Claim” button to collect rewards.
 
