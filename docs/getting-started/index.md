@@ -34,7 +34,7 @@ Portkey Wallet is a smart contract wallet without mnemonic phrases. You can alwa
 
 ## 2.3 **EcoEarn Connects with PortKey Wallet**
 
--   Click the “Log in” button in the navigation bar to connect your wallet.
+-   Click the “Connect Wallet” button in the navigation bar to connect your wallet.
 
 ![](/img/2.3.1.png)
 
