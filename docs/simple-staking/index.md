@@ -62,11 +62,11 @@ description: Simple Staking
 
 ### 4.5 **Unstake**
 
--   After the stake duration ends, you can unlock the fixed-term mining pool during the 7-day unlocking period (grace period). Select the fixed-term mining pool you wish to unlock, then click the ‘Unlock’ button.
+-   After the stake duration ends, you can unstake the fixed-term mining pool during the 7-day unstaking period (grace period). Select the fixed-term mining pool you wish to unstake, then click the ‘Unstake’ button.
 
 ![](/img/4.2.5.1.png)
 
--   Confirm the unlocking details, including claiming rewards at the same time. Click the “Confirm” button to proceed. Rewards claimed have a 90-day release period, and details can be viewed on the “Rewards” page.
+-   Confirm the unstaking details, including claiming rewards simultaneously. Click ‘Confirm’ to proceed. Claimed rewards have a 90-day release period, and details can be viewed on the ‘Rewards’ page.
 
 ![](/img/4.2.5.2.png)
 
