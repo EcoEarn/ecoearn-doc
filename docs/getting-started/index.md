@@ -39,9 +39,6 @@ Portkey Wallet is a smart contract wallet without mnemonic phrases. You can alwa
 ![](/img/2.3.1.png)
 
 -   You can log in to Portkey Wallet using a Google ID, Apple ID, email, or Telegram account.
-
-![](/img/2.3.2.png)
-
 -   After confirming the signature, you will be successfully logged in.
 
-![](/img/2.3.3.png)
+![](/img/2.3.2.png)
