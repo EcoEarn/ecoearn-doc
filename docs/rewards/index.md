@@ -11,8 +11,6 @@ description: Rewards
 
 ![](/img/4.4.1.1.png)
 
-![](/img/4.4.1.2.png)
-
 -   Confirm the amount of rewards you wish to stake, enter the desired stake duration, and click ‘Stake’ to confirm.
 -   For first-time staking, you must input a stake duration of at least 7 days.
 -   For additional stakes, ensure to extend the stake duration accordingly, so it meets or exceeds the longest release time node of the rewards.
