@@ -11,12 +11,9 @@ description: Simple Staking
 ![](/img/4.2.1.1.png)
 
 -   Enter the number of tokens you wish to lock and the staking duration, then click ‘Stake’ to confirm. The minimum stake is 1 token, and the initial stake duration must be at least 7 days.
-
-![](/img/4.2.1.2.png)
-
 -   Confirm the staking amount and the unstake time, then click 'Confirm'.
 
-![](/img/4.2.1.3.png)
+![](/img/4.2.1.2.png)
 
 ### 4.2 **Add Staking**
 
@@ -25,12 +22,9 @@ description: Simple Staking
 ![](/img/4.2.2.1.png)
 
 -   In the pop-up window, enter the amount you wish to stake, specify the additional stake duration, and click 'Confirm' to complete the additional staking. Extending the stake duration by at least 1 day is required when adding staking.
-
-![](/img/4.2.2.2.png)
-
 -   Confirm the additional staking amount and the stake duration you entered, then click ‘Confirm’.
 
-![](/img/4.2.2.3.png)
+![](/img/4.2.2.2.png)
 
 ### 4.3 **Extend stake duration**
 
@@ -39,12 +33,9 @@ description: Simple Staking
 ![](/img/4.2.3.1.png)
 
 -   In the pop-up window for extending the stake duration, enter the extension duration, then click ‘Stake’ to confirm the extension.
-
-![](/img/4.2.3.2.png)
-
 -   Confirm the extension duration you entered earlier, then click the “Confirm” button.
 
-![](/img/4.2.3.3.png)
+![](/img/4.2.3.2.png)
 
 ### 4.4 **Renew**
 
@@ -53,29 +44,20 @@ description: Simple Staking
 ![](/img/4.2.4.1.png)
 
 -   In the ‘Renew’ pop-up window, confirm the amount you wish to renew, select or enter the stake duration (minimum 7 days), and click ‘Renew’ to confirm the staking.
-
-![](/img/4.2.4.2.png)
-
 -   Confirm the amount and stake duration you wish to renew, then click ‘Confirm’.
 
-![](/img/4.2.4.3.png)
+![](/img/4.2.4.2.png)
 
 ### 4.5 **Unstake**
 
 -   After the stake duration ends, you can unstake the fixed-term mining pool during the 7-day unstaking period (grace period). Select the fixed-term mining pool you wish to unstake, then click the ‘Unstake’ button.
-
-![](/img/4.2.5.1.png)
-
 -   Confirm the unstaking details, including claiming rewards simultaneously. Click ‘Confirm’ to proceed. Claimed rewards have a 90-day release period, and details can be viewed on the ‘Rewards’ page.
 
-![](/img/4.2.5.2.png)
+![](/img/4.2.5.1.png)
 
 ### 4.6 **Claiming Rewards**
 
 -   Once the unstaking period (grace period) is reached, click the ‘Claim’ button to collect rewards.
-
-![](/img/4.2.6.1.png)
-
 -   Confirm the rewards you wish to claim, then click the “Confirm” button. Rewards claimed have a 90-day release period, and details can be viewed on the “Rewards” page.
 
-![](/img/4.2.6.2.png)
+![](/img/4.2.6.1.png)
