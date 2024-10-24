@@ -18,19 +18,12 @@ Portkey Wallet is a smart contract wallet without mnemonic phrases. You can alwa
 
 ### Download Portkey Wallet
 
--   Visit the official website of the wallet, [https://portkey.finance/](https://portkey.finance/) and download Portkey Wallet App or Extension.
-
-![](/img/2.2.1.png)
+Visit the official website of the wallet, [https://portkey.finance/](https://portkey.finance/) and download Portkey Wallet App or Extension.
 
 ### Register Portkey Account
 
 -   Sign up for a Portkey Wallet account using Google ID, Apple ID, email, or Telegram account. Set a PIN code during registration.
-
-![](/img/2.2.2.png)
-
 -   Upon completion, you'll instantly have a MainChain address on aelf network, and within 3-4 minutes, you'll also see your Sidechain address at the second line (ends with tDVV). Click on your SideChain address and then on "Receive", you'll see your own SideChain Address
-
-![](/img/2.2.3.png)
 
 ## 2.3 **EcoEarn Connects with PortKey Wallet**
 
