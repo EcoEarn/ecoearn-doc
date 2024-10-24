@@ -10,7 +10,7 @@ description: FAQ
 
 The stake duration ranges from a minimum of 7 days to a maximum of 360 days. Longer stake durations yield higher Annual Percentage Rates (APR). You can enter any stake duration in the input field or choose from platform-provided options: 7 days, 30 days, 90 days, 180 days, 360 days.
 
-### 8.2 **Unstaking Period (Grace Period)**
+### 8.2 **Unstaking Period**
 
 After the staking period ends, there is a 7-day grace period. During this time, you can unstake your position, claim rewards, and end the staking. If more than 7 days pass without action, the platform will re-stake all assets based on the remaining stake duration from the most recent staking or additional deposit.
 
