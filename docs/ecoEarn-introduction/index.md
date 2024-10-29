@@ -33,13 +33,13 @@ Even though there is a frozen period for the rewards, you can **stake all of you
 
 ***APR = (Annual Rewards in USD) / (Total Staked Assets in the Mining Pool in USD) * 100***
 
-For example, a user participates in a 360-day mining pool that offers rewards worth $1,800,000 and stakes for 360 days. In total, users have collectively staked tokens valued at $3,000,000 in the mining pool.
-
 The APR is constantly changing, influenced by the total amount staked in the pool, the price of the staked tokens, and the price of the reward tokens.
 
 Additionally, the APR is affected by the staking duration; the longer the staking period, the greater the multiplier  K , with a maximum of 3 times. The adjusted APR for users is calculated by multiplying the base APR by this multiplier.
 
 ***Multiplier  K = 1 + N  (Staking Duration) *  L  (Fixed Coefficient of 1/180)***
+
+For example, a user participates in a 360-day mining pool that offers rewards worth $1,800,000 and stakes for 360 days. In total, users have collectively staked tokens valued at $3,000,000 in the mining pool.
 
 |   | **Calculation**  | **Amount**  |
 |------|------|------|
