@@ -61,3 +61,7 @@
     display: none;
   }
 }
+
+.docs-doc-id-ecoEarn-introduction\/index {
+  table th:last-of-type { width: 25%; }
+}
