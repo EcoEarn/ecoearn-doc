@@ -8,7 +8,7 @@ description: Getting Started
 
 ## 2.1 **About aelf**
 
-aelf network operates on a MainChain-SideChain structure, with the MainChain mainly for transfers with exchanges, and the SideChain for improved scalability.
+aelf network operates on a MainChain-dAppChain structure, with the MainChain mainly for transfers with exchanges, and the dAppChain for improved scalability.
 
 ## 2.2 **Portkey Wallet Download Guide**
 
@@ -23,7 +23,7 @@ Visit the official website of the wallet, [https://portkey.finance/](https://por
 ### Register Portkey Account
 
 -   Sign up for a Portkey Wallet account using Google ID, Apple ID, email, or Telegram account. Set a PIN code during registration.
--   Upon completion, you'll instantly have a MainChain address on aelf network, and within 3-4 minutes, you'll also see your Sidechain address at the second line (ends with tDVV). Click on your SideChain address and then on "Receive", you'll see your own SideChain Address
+-   Upon completion, you'll instantly have a MainChain address on aelf network, and within 3-4 minutes, you'll also see your dAppChain address at the second line (ends with tDVV). Click on your dAppChain address and then on "Receive", you'll see your own dAppChain Address.
 
 ## 2.3 **EcoEarn Connects with PortKey Wallet**
 
